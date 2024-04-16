@@ -1,4 +1,3 @@
-i
 # This report will go through:
 - Executive Summary
 - Research Questions
